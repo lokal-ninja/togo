@@ -1,6 +1,6 @@
 ---
 title: Tsevié
 url: /tsevie/
-latitude: 
-longitude: 
+latitude: 6.434
+longitude: 1.207
 ---
