@@ -1,5 +1,5 @@
 ---
 title: "ASSILASSIMÉ"
 url: /lome/assilassime/
-shop: shop
+shop: Allgemein
 ---
