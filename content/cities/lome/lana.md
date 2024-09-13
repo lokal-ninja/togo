@@ -1,5 +1,5 @@
 ---
 title: "Lana"
 url: /lome/lana/
-shop: Modehaus
+shop: boutique
 ---

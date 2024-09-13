@@ -1,5 +1,5 @@
 ---
 title: "Garage Auto Nouvelle Technologie"
 url: /lome/garage-auto-nouvelle-technologie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

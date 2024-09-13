@@ -1,5 +1,5 @@
 ---
 title: "Togomotoparts"
 url: /lome/togomotoparts/
-shop: Motorrad
+shop: moto
 ---

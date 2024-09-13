@@ -1,5 +1,5 @@
 ---
 title: "Supermarché Leader Price"
 url: /lome/supermarche-leader-price/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "S.E.C.A Alluminuim"
 url: /lome/s-e-c-a-alluminuim/
-shop: Eisenwaren
+shop: matériel informatique
 ---

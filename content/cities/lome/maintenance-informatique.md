@@ -1,5 +1,5 @@
 ---
 title: "Maintenance Informatique"
 url: /lome/maintenance-informatique/
-shop: Computer
+shop: ordinateur
 ---

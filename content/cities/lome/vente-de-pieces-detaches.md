@@ -1,5 +1,5 @@
 ---
 title: "Vente de Pièces Detachés"
 url: /lome/vente-de-pieces-detaches/
-shop: Autoteile
+shop: pièces de voitures
 ---
