@@ -1,6 +1,6 @@
 ---
-title: Lome
+title: Lomé
 url: /lome/
-latitude: 6.197
-longitude: 1.188
+latitude: 6.129
+longitude: 1.239
 ---
